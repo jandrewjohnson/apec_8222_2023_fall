@@ -13,7 +13,7 @@ Course data: <https://drive.google.com/drive/u/1/folders/1lcGSH0yQZ9IJ-sdNWbQQTG
 Turrell textbook: <https://aeturrell.github.io/coding-for-economists/intro.html>
 
 |                               |                                                           |                                                                                                                    |                                               |     |
-|---------------|---------------|----------------------------|---------------|---------------|
+|--------------|--------------|------------------|--------------|--------------|
 | **Date**                      | **Topic**                                                 | **Readings**                                                                                                       | **Assignments**                               |     |
 | 24-Oct                        | Introduction & Course Overview                            | None                                                                                                               | Assignment 1 Assigned (very short assignment) |     |
 | 26-Oct                        | Expanding your toolset, Introduction to Python \[part 1\] | Turrell, "Preliminaries" section: https://aeturrell.github.io/coding-for-economists/code-preliminaries.html        |                                               |     |
