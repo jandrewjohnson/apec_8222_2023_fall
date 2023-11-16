@@ -1,4 +1,4 @@
-# **APEC 8222: Big Data Methods in Economics**
+x# **APEC 8222: Big Data Methods in Economics**
 
 ## Resources
 
@@ -22,8 +22,8 @@ Turrell textbook: <https://aeturrell.github.io/coding-for-economists/intro.html>
 | 7-Nov                         | Python for Big Spatial Rasters                            | https://nature.com/articles/s41586-020-2649-2                                                                      | Assignment 2 Due, Assignment 3 Assigned       |     |
 | 9-Nov                         | Huge tables with Pandas                                   | Turrell, "Intro to Geo-Spatial Analysis" section: https://aeturrell.github.io/coding-for-economists/geo-intro.html |                                               |     |
 | 14-Nov                        | Large vector data linked to tables                        | "Machine Learning Methods Economists Should Know About", Hastie et al. (2009) Chp 2                                | Assignment 3 Due, Assignment 4 Assigned       |     |
-| 16-Nov                        | Combining many big-data types                             | "Big Data: New Tricks for Econometrics", Hastie et al (2009) Chp 3                                                 | Independent Project Assigned                  |     |
-| 21-Nov                        | Machine Learning and Cross-Validation                      | Hastie et al (2009) Chp 15                                                                                         | Assignment 4 Due, Assignment 5 Assigned       |     |
+| 16-Nov                        | Combining many big-data types, starting ML                | "Big Data: New Tricks for Econometrics", Hastie et al (2009) Chp 3                                                 | Independent Project Assigned                  |     |
+| 21-Nov                        | Machine Learning and Cross-Validation                     | Hastie et al (2009) Chp 15                                                                                         | Assignment 4 Due, Assignment 5 Assigned       |     |
 | 23-Nov                        | University Closed (Thanksgiving Holiday)                  |                                                                                                                    |                                               |     |
 | Nov 28 (guest lecture)        | Economics and Large Language Models                       | To be assigned.                                                                                                    | List of 3 project ideas/datasets due          |     |
 | Nov 30 (guest lecture)        | R and Python Integration                                  | https://aeturrell.github.io/coding-for-economists/coming-from-r.html                                               |                                               |     |
