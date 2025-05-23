@@ -1,4 +1,4 @@
-x# **APEC 8222: Big Data Methods in Economics**
+# **APEC 8222: Big Data Methods in Economics**
 
 ## Resources
 
